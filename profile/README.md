@@ -25,7 +25,7 @@
 
 Living Brain listens where your team talks, turns it into Markdown pages for people, projects, decisions and customers,
 and links every fact to the message it came from. Every night it merges duplicates, flags contradictions and refreshes
-what went stale. Ask it in Slack, from your coding agent over MCP, or in your terminal with one fast Rust binary. Watch it
+what went stale. Ask it in Slack, from your coding agent over MCP, or in your terminal with one fast Rust binary, which also gathers every coding agent's session logs into one searchable record. Watch it
 grow as a 3D graph.
 
 ---
@@ -45,9 +45,11 @@ Nothing is running yet, and the site says so.
 
 | Plan | Price | |
 | :--- | :--- | :--- |
-| **Community** | Free | Self-hosted, up to 5 people, all core features |
-| **Teams** | $5/mo | Unlimited people, SSO, admin and audit log, shared prompt library |
-| **Crew** | $9/mo | Hosted, model included, up to 25 people |
+| **Community** | Free | Self-hosted, up to 5 people, all core features, your own storage |
+| **Teams** | $5/mo | Unlimited people, SSO, admin and audit log, shared prompt library, 10 GB hosted |
+| **Crew** | $9/mo | Hosted, DeepSeek included or bring your own model, up to 25 people, 25 GB |
+
+Choose your own models on every plan. Extra hosted storage: $0.25 per GB a month.
 
 ---
 
