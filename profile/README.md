@@ -25,7 +25,7 @@
 
 Living Brain listens where your team talks, turns it into Markdown pages for people, projects, decisions and customers,
 and links every fact to the message it came from. Every night it merges duplicates, flags contradictions and refreshes
-what went stale. Ask it in Slack, from your coding agent over MCP, or in your terminal with one fast Rust binary, which also gathers every coding agent's session logs into one searchable record. Watch it
+what went stale. Ask it from your coding agent over MCP, in your terminal with one fast Rust binary, or in team chat (Slack, Discord), which also gathers every coding agent's session logs into one searchable record. Watch it
 grow as a 3D graph.
 
 ---
@@ -35,7 +35,7 @@ grow as a 3D graph.
 | | What it is | Status |
 | :--- | :--- | :--- |
 | **Site** | [livingbrain.wiki](https://livingbrain.wiki): the landing page and `llms.txt`. | `IN PROGRESS` |
-| **Living Brain** | The product: the Slack teammate, the living wiki, MCP and the `livingbrain` CLI, the 3D brain. Open core, Apache-2.0. | `PLANNED` |
+| **Living Brain** | The product: the living wiki, MCP and the `livingbrain` CLI, the app, team chat (Slack, Discord), the 3D brain. Open core, Apache-2.0. | `PLANNED` |
 
 Nothing is running yet, and the site says so.
 
