@@ -47,9 +47,9 @@ Nothing is running yet, and the site says so.
 | :--- | :--- | :--- |
 | **Community** | Free | Self-hosted, up to 5 people, all core features, your own storage |
 | **Teams** | $5/mo | Unlimited people, SSO, admin and audit log, shared prompt library, 10 GB hosted |
-| **Crew** | $9/mo | Hosted, DeepSeek included or bring your own model, up to 25 people, 25 GB |
+| **Crew** | $9/mo | Hosted, $3 of DeepSeek credit each month or bring your own LLM, up to 25 people, 25 GB |
 
-Choose your own models on every plan. Extra hosted storage: $0.25 per GB a month.
+Bring your own LLM on every plan. Extra hosted storage: $0.25 per GB a month. On-demand reasoning from $0.001 per question.
 
 ---
 
