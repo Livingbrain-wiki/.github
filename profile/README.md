@@ -45,6 +45,13 @@ Nothing is running yet, and the site says so.
 
 | Plan | Price | |
 | :--- | :--- | :--- |
+| **Community** | Free | Self-hosted, up to 5 people, all core features |
+| **Teams** | $5/mo self-hosted · $9/mo hosted ($90/yr) | Self-hosted: unlimited people. Hosted: your own LLM, 25 people included |
+| **Crew** | $15/mo ($150/yr) | Hosted, $5 of DeepSeek credit a month or your own LLM, 25 people included |
+
+Extra people on hosted plans: +$5/mo per 25. Bring your own LLM on every plan.
+
+--- | :--- | :--- |
 | **Community** | Free | Self-hosted, up to 5 people, all core features, your own storage |
 | **Teams** | $5/mo | Unlimited people, SSO, admin and audit log, shared prompt library, 10 GB hosted |
 | **Crew** | $9/mo | Hosted, $3 of DeepSeek credit each month or bring your own LLM, up to 25 people, 25 GB |
